@@ -1,6 +1,8 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import JobListingContent from './JobListingContent';
 import Spinner from './Spinner';
+
+
 
 const JobListing = ({ isHome = false }) => {
   const [jobs, setJobs] = useState([]);
