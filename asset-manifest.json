@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Job-Listing-website/static/css/main.49ca8e89.chunk.css",
+    "main.js": "/Job-Listing-website/static/js/main.98b702b6.chunk.js",
+    "main.js.map": "/Job-Listing-website/static/js/main.98b702b6.chunk.js.map",
+    "runtime~main.js": "/Job-Listing-website/static/js/runtime~main.31e4b767.js",
+    "runtime~main.js.map": "/Job-Listing-website/static/js/runtime~main.31e4b767.js.map",
+    "static/css/2.b2154eb6.chunk.css": "/Job-Listing-website/static/css/2.b2154eb6.chunk.css",
+    "static/js/2.2773a190.chunk.js": "/Job-Listing-website/static/js/2.2773a190.chunk.js",
+    "static/js/2.2773a190.chunk.js.map": "/Job-Listing-website/static/js/2.2773a190.chunk.js.map",
+    "static/js/3.fc5cbf83.chunk.js": "/Job-Listing-website/static/js/3.fc5cbf83.chunk.js",
+    "static/js/3.fc5cbf83.chunk.js.map": "/Job-Listing-website/static/js/3.fc5cbf83.chunk.js.map",
+    "index.html": "/Job-Listing-website/index.html",
+    "precache-manifest.73127ef2af31e776a3fa8c1d1e4a702a.js": "/Job-Listing-website/precache-manifest.73127ef2af31e776a3fa8c1d1e4a702a.js",
+    "service-worker.js": "/Job-Listing-website/service-worker.js",
+    "static/css/2.b2154eb6.chunk.css.map": "/Job-Listing-website/static/css/2.b2154eb6.chunk.css.map",
+    "static/css/main.49ca8e89.chunk.css.map": "/Job-Listing-website/static/css/main.49ca8e89.chunk.css.map"
+  }
+}
