@@ -41,7 +41,7 @@
 
 // //export default SingleJobPage;
 // export {SingleJobPage as default,jobLoader};
-// import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, useLoaderData } from 'react-router-dom';
 import { FaArrowLeft,  FaMapMarker } from 'react-icons/fa';
 import { Link,useNavigate } from 'react-router-dom';
