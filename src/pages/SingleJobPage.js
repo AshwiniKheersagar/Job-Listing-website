@@ -41,14 +41,14 @@
 
 // //export default SingleJobPage;
 // export {SingleJobPage as default,jobLoader};
-import React, { useState, useEffect } from 'react';
-import { useParams, useLoaderData } from 'react-router-dom';
+import React from 'react';
+import { useLoaderData } from 'react-router-dom';
 import { FaArrowLeft,  FaMapMarker } from 'react-icons/fa';
 import { Link,useNavigate } from 'react-router-dom';
 import {toast} from 'react-toastify';
 
 const SingleJobPage = ({deleteJob}) => {
-    const { id } = useParams();
+   
     const job = useLoaderData();
     const navigate=useNavigate();
 
